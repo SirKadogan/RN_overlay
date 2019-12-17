@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
     margin: 'auto',
     borderRadius: 10,
     backgroundColor: 'white',
-    zIndex: 100,
+    zIndex: 200,
     alignItems: 'center',
     justifyContent: 'space-around',
     padding: 10,
